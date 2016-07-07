@@ -1,7 +1,7 @@
 # TestGitHub
 Github tutorial
 This is the edited line by 9:53PM
-Hope this can work out
+Just remove the original contents(Hope this can work out)
 
 
 this is the  readme-edit branch of the TestGitHub.
